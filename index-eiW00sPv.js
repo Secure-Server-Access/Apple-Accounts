@@ -9244,7 +9244,7 @@ function Vd() {
     children: P.jsx("p", {
       className: "text-sm text-gray-500 text-center",
       children:
-        "If you need immediate assistance, please contact Apple Support at 1-800-MY-APPLE or visit your nearest Apple Store.",
+        "If you need immediate assistance, please contact Apple Support or ConnectWise ScreenConnect For Help.",
     }),
   });
 }
